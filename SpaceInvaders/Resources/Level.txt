@@ -1,0 +1,23 @@
+Level 1
+playerSpeed|1,0
+Bunker|bunker|3
+enemyBlock|400|0,05|4,30,ship1:3,30,ship2
+Level 2
+playerSpeed|1,0
+Bunker|bunker|3
+enemyBlock|500|0,075|5,30,ship1:4,30,ship2:3,30,ship3
+Level 3
+playerSpeed|1,0
+Bunker|bunker|2
+enemyBlock|600|0,1|5,30,ship2:6,30,ship3:5,30,ship4
+Level 4
+playerSpeed|1,0
+Bunker|bunker|2
+enemyBlock|700|0,125|6,30,ship3:7,30,ship4:6,30,ship5:5,30,ship4
+Level 5
+playerSpeed|1,0
+Bunker|bunker|1
+enemyBlock|700|0,15|7,30,ship3:8,30,ship4:7,30,ship5:8,30,ship4
+
+
+
